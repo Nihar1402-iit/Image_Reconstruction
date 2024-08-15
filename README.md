@@ -357,8 +357,10 @@ The predicted image for sigma = 0.025 is:
 The predicted image for sigma = 0.03 is:
 
 <div align="center">
+ 
 # Image Reconstruction  
- ## Brief about the code:
+
+## Brief about the code:
 
 Here, alternating least square method is used to solve the matrix factorization problem. The function `factorize()` is defined to solve the matrix factorization problem using alternating least square method. The function takes the following inputs:
 
